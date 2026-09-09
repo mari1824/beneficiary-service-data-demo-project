@@ -7,6 +7,14 @@ This project demonstrates how beneficiary and service data can be collected, val
 
 The project uses **KoboToolbox** for data collection, **Google BigQuery** for data storage and processing, **SQL** for data quality checks and transformations, and **Looker Studio** for reporting and visualization.
 
+## Project Links
+
+* **Looker Studio Dashboard** — https://datastudio.google.com/reporting/fd41081f-070e-4b82-a21a-a4d165f7b1e8
+* **KoboToolbox Form** — https://ee.kobotoolbox.org/x/TUBUJYie
+* **BigQuery Dataset** — https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbeneficiary-registration-demo!2sbeneficiary_demo
+* **SQL Repository** — https://github.com/mari1824/beneficiary-service-data-demo-project
+
+
 ## Data workflow
 
 **KoboToolbox → BigQuery → Data Quality & Validation → Data Cleaning → Analytical Tables → Looker Studio**
