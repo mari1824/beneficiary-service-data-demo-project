@@ -87,17 +87,13 @@ beneficiary-service-data-management/
 │
 ├── README.md
 │
-├── 01_data_quality_checks/
-│   └── data_quality_checks.sql
+├── 01_data_quality_checks.sql
 │
-├── 02_kobo_clean_creation/
-│   └── kobo_clean_creation.sql
+├── 02_kobo_clean_creation.sql
 │
-├── 03_service_analytics_creation/
-│   └── service_analytics_creation.sql
+├── 03_service_analytics_creation.sql
 │
-└── 04_beneficiary_analytics_creation/
-    └── beneficiary_analytics_creation.sql
+└── 04_beneficiary_analytics_creation.sql
 ```
 
 ## Project outcome
